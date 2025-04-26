@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
               routerConfig: AppRouter.router,
               theme: ThemeData(
                 scaffoldBackgroundColor: Styles.scaffoldColor
-
+//
               ),
             )
         );
